@@ -35,7 +35,6 @@ const student = {
 
 // ***********************//
 // Step 1: Create a simple object
-// Step 1: Create a simple object
 let person = {
     name: "Ali",
     age: 25
@@ -47,5 +46,5 @@ person.sayHello = function() {
 };
 
 // Step 3: Use the method
-console.log(person.sayHello());  // Output: Hello, my name is Alice and I am 25 years old.
+console.log(person.sayHello());  
 
