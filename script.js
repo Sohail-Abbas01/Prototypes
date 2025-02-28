@@ -1,3 +1,4 @@
+//.....
 let person = {
     name: "Ali",
     Details() {
